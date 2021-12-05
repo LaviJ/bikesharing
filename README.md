@@ -3,9 +3,8 @@
 Analysis of bike sharing business of New York using tools such as Tableau in order to form basis of a business plan for bike sharing business in Des Moines.
 
 Below is the link for the Tableau workbook on tableau public :
-https://public.tableau.com/app/profile/lavina.jagwani/viz/Citibike_Challenge_16373667360710/SummaryofNYC_Citibike
 
-https://public.tableau.com/app/profile/lavina.jagwani/viz/Citibike_Challenge_16373667360710/TripsbyWeekdayperHourGender?publish=yes
+[Link to the Story] https://public.tableau.com/app/profile/lavina.jagwani/viz/Citibike_Challenge_16373667360710/SummaryofNYC_Citibike_AnalysisVisualization
 
 ## Purpose :
 The citibike bike sharing business is very popular in cities providing the convenience of exploring the city, especially in high traffic within a short time. Due to its immense popularity, this analysis is done on the citi-bike data of NYC to understand the business in a greater depth and to be able to take and informed decision of opening a similar bike sharing business in the city of Des Moines, Iowa.
